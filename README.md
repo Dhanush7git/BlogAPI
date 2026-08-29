@@ -111,9 +111,7 @@ Notes:
 | POST | `/api/posts/:id/comments` | Yes | Add a comment to a post |
 | POST | `/api/posts/:id/like` | Yes | Like a post; duplicate likes are rejected by the database |
 
-## Resume Highlight
 
-> "Engineered a blog platform API with Redis cache-aside caching, reducing hot-endpoint latency from ~150ms to ~10ms; implemented cursor pagination, DB-enforced constraints, and an automated Jest/Supertest suite"
 
 ## Summary
 
